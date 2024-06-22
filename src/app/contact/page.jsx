@@ -25,7 +25,7 @@ const Contact = () => {
         </div>
         <div className="w-full h-[80%]  flex justify-end">
           <form
-            action="https://formsubmit.co/qobiljonmamurov6@gmail.com"
+            action="https://formsubmit.co/Bahrom8466246@gmail.com"
             method="POST"
             className="w-[80%] h-full"
           >
